@@ -1,3 +1,5 @@
+DEPRECATED--- GO TO https://github.com/acsicuib/GAdecomposition
+
 This repository includes the source code, the data and the plots for the paper entitled "A Scalable Divide-and-Conquer Genetic Algorithm for Multi-Objective Service Placement in the Cloud-Edge-Fog Computing Continuum", submitted for peer review to the journal "XXXX":
 
 ```
